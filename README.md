@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! I'm Eduardo 
 
-<!--
-**EdStackCrafter/EdStackCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍 Estudiante de Programación | 📸 Fotógrafo Aficionado | 🧠 Psicología en mi playlist mental| 🐶 Dog Lover | 💪 Fan del Gym
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mí
+
+Actualmente estoy aprendiendo programación con entusiasmo. Me interesa crear proyectos que combinen tecnología con creatividad, explorando áreas como el desarrollo web, la automatización y la inteligencia artificial.
+
+
+---
+
+## 🚀 Habilidades en desarrollo
+
+- HTML, CSS, JavaScript
+- Python (bases)
+- Git & GitHub
+- Markdown
+
+---
+
+## 📬 Conectemos
+
+Si quieres hablar de código, fotografía, psicología o simplemente intercambiar ideas:
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/eduardo-cardoso-rodriguez-79a33b13b/]
+- 🐙 GitHub: [github.com/EdStackCrafter]
+
+---
+
+_Gracias por pasarte por aquí. ¡Nos leemos en los commits!_ ✨
